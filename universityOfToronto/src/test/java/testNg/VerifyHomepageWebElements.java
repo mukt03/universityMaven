@@ -29,7 +29,7 @@ public class VerifyHomepageWebElements extends Base{
        base=new Base();
 		driver=base.openBrowser(browserName);
 //		if (browserName.equals("Chrome")) {
-//			driver=openChromeBrowser();
+//			driver=openEdgeBrowser();
 //			}
 //			if (browserName.equals("Edge")) {
 //				driver=openEdgeBrowser();
